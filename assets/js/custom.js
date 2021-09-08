@@ -9,4 +9,6 @@ $(document).ready(function(){
             scrollTop: 0
         });
     });
+    $("a[title='linkedin']").attr("href", "https://in.linkedin.com/company/pantastechnologies");
+     
 });

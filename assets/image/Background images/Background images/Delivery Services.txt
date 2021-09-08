@@ -1,0 +1,6 @@
+We, Pandas Technologies, understand each organization's needs and goals, and offer services in 
+
+Project Support - Work closely with organizations from project planning till implementation
+PoC/MVP - Involve with their existing team to support building Proof of Concepts/Minimum Viable Product development and demonstration
+Automation - Bringing automation in Software Development Life Cycle and Delivering High Quality Software Products. 
+Tool Development - Building various tools to make resources to delivery better quality products. Tools for Data Profiling, Data Engineering, Data Analytics are delivered to various companies.
